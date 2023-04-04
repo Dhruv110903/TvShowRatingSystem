@@ -12,5 +12,4 @@ yarn add react
 ```
 
 ## Live Development Setup 
-
 https://reacttv.netlify.app/
